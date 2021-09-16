@@ -6,9 +6,9 @@ categories: reflection
 ---
 # Reflection
 
-Before this lab, I had never used the terminal in a computer before. While I had been limited to a chromebook for previous labs, my dad lent me his mac for the semester. Initially, I really struggled with the terminal because I had some strange commands line errors for software I didn't have to download the project. However, I was able to find an alternate path to getting ruby through a site Dr. Goadrich found [here](https://nickymarino.com/2020/06/13/jekyll-server-rvm-macos/).
+Before this lab, I had never used the terminal in a computer before. While I had been limited to a chromebook for previous labs, my dad lent me his mac for the semester. Initially, I really struggled with the terminal because I had some strange commands line errors for software I didn't have to download the project. However, I was able to find an alternate path to getting ruby through a site Dr. Goadrich found [here](https://nickymarino.com/2020/06/13/jekyll-server-rvm-macos/). I was also able to get alot of answers through [stack overflow](https://stackoverflow.com/).
 
-Goals for this Blog
+Blog goals this semester
 1. Reflections on each assignment
 2. Links to finished projects
 3. Links to resources for future CSCI 340 students
