@@ -5,14 +5,10 @@ categories: reflection
 ---
 # Reflection on Lab 5
 
-This was the lab I felt the most comfortable with. I am completely new to Jekyll and working with a terminal, so this part took alot of work. I struggled finding where my gem files were, but once I found out how to use the terminal better and download and find gems, the project became much easier. It was also a struggle learning the structure of a jekyll page, but it makes more sense now. I'm still not sur how to make better links, I'd like to have direct link in my nav bar without the use of other pages. I'm looking forward to how good this site is going to look by the end of the semester! I was able to get alot of answers through [this tutorial](https://carpentries-incubator.github.io/jekyll-pages-novice/aio/index.html) and [this jekyll theme guide](https://jekyllrb.com/docs/themes/).
+This lab was easier to me because there was less hard coding. However, I think that I need to get practice maniupulating the back-ends of SQL before I can have confidence in it. The flowcharts and schema were quite useful for organizing my thoughts and it was useful to think in those terms during my meeting with our client. I'm excited to get to put these ideas into practice as we work on our own websites. 
 
-Blog goals this week
-1. Get better at links in nav bar
-2. Get nav bar links to be on all pages
-3. Add new themes and styling
+Here's the [SQL schema]({{https://lucid.app/lucidchart/c154d5c6-20e3-4c88-9ad5-9ea80141379c/edit?page=0_0&invitationId=inv_56f3cb1a-5592-43fe-9005-6b0b83670082#}}/Grocery_Store-2021-09-24_09-46.pdf).
 
-![Lake Pic](https://p0.pxfuel.com/preview/1008/814/358/landscape-nature-sunset-sky.jpg)
+And here's the [lucid chart]({{https://my.vertabelo.com/model/hLyYpifE4G6Z6p8vEvisECgCLr3x6JAW}}/CSCI Lab 5.png).
 
-![Waterfall](https://live.staticflickr.com/7803/40550613243_5ca9551369_b.jpg)
 
