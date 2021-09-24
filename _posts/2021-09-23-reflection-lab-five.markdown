@@ -7,8 +7,8 @@ categories: reflection
 
 This lab was easier to me because there was less hard coding. However, I think that I need to get practice maniupulating the back-ends of SQL before I can have confidence in it. The flowcharts and schema were quite useful for organizing my thoughts and it was useful to think in those terms during my meeting with our client. I'm excited to get to put these ideas into practice as we work on our own websites. 
 
-Here's the [SQL schema]({{https://lucid.app/lucidchart/c154d5c6-20e3-4c88-9ad5-9ea80141379c/edit?page=0_0&invitationId=inv_56f3cb1a-5592-43fe-9005-6b0b83670082#}}/Grocery_Store-2021-09-24_09-46.pdf).
+Here's the [SQL schema]({file:///home/chronos/u-486f7d61d94d61b9f080114ec0d5df12b6f5b88c/MyFiles/Downloads/Grocery_Store-2021-09-24_09-46.pdf}}/Grocery_Store-2021-09-24_09-46.pdf).
 
-And here's the [lucid chart](CSCI Lab 5.png).
+And here's the [lucid chart](CSCI_Lab_5.png).
 
 
