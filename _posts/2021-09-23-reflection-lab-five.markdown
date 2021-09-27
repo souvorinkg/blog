@@ -9,8 +9,7 @@ This lab was easier to me because there was less hard coding. However, I think t
 
 In the meeting with Holly Payne, I was able to use some experience I had working with a homerigged delivery system back in Atlanta. I'll be able to follow up with my old contacts about how they were able to get their website to work. 
 
-Here's the SQL Schema:
-![SQL schema](vert_grocery.png).
+Here's the SQL Schema: ![SQL schema](vert_grocery.png).
 
 And here's the lucid chart:
 ![lucid chart](lucid_grocery.png).
