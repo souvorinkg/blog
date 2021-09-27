@@ -9,8 +9,8 @@ This lab was easier to me because there was less hard coding. However, I think t
 
 In the meeting with Holly Payne, I was able to use some experience I had working with a homerigged delivery system back in Atlanta. I'll be able to follow up with my old contacts about how they were able to get their website to work. 
 
-Here's the [SQL schema](Grocery_Store-2021-09-24_09-46.pdf).
+Here's the ![SQL schema](blob:chrome-untrusted://media-app/85359af5-b503-4bcc-b2a8-febe680f203d).
 
-And here's the [lucid chart](https://github.com/souvorinkg/blog/blob/main/CSCI%20Lab%205.png).
+And here's the ![lucid chart](blob:chrome-untrusted://media-app/0cfc41dc-3f38-4c76-af6a-8c9ab5a4ed2b).
 
 
