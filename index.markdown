@@ -4,3 +4,7 @@
 
 layout: home
 ---
+# CSCI 340
+
+## Description
+This class teaches skills in web development.
