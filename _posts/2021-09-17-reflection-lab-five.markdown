@@ -11,6 +11,6 @@ In the meeting with Holly Payne, I was able to use some experience I had working
 
 Here's the SQL Schema:
 
-![Vert Chart](vert_grocery.png)
+![Vert Chart](/static/images/vert_grocery.png)
 
-![lucid_grocery](lucid_grocery.png)
+![lucid_grocery](/static/images/lucid_grocery.png)
