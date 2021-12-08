@@ -1,17 +1,16 @@
 layout: post
-title:  "Lab 4 Reflection"
-date:   2021-09-17 14:28:14 -0500
+title:  "Lab 5 Reflection"
+date:   2021-09-28 14:28:14 -0500
 categories: reflection
 ---
-# Reflection on Lab 4
+# Reflection on Lab 5
 
-This was the lab I felt the most comfortable with. I am completely new to Jekyll and working with a terminal, so this part took alot of work. I struggled finding where my gem files were, but once I found out how to use the terminal better and download and find gems, the project became much easier. It was also a struggle learning the structure of a jekyll page, but it makes more sense now. I'm still not sur how to make better links, I'd like to have direct link in my nav bar without the use of other pages. I'm looking forward to how good this site is going to look by the end of the semester! I was able to get alot of answers through [this tutorial](https://carpentries-incubator.github.io/jekyll-pages-novice/aio/index.html) and [this jekyll theme guide](https://jekyllrb.com/docs/themes/).
+This lab was easier to me because there was less hard coding. However, I think that I need to get practice manipulating the back-ends of SQL before I can have confidence in it. The flowcharts and schema were quite useful for organizing my thoughts and it was useful to think in those terms during my meeting with our client. I'm excited to get to put these ideas into practice as we work on our own websites.
 
-Blog goals this week
-1. Get better at links in nav bar
-2. Get nav bar links to be on all pages
-3. Add new themes and styling
+In the meeting with Holly Payne, I was able to use some experience I had working with a home-rigged delivery system back in Atlanta. I'll be able to follow up with my old contacts about how they were able to get their website to work.
 
-![Lake Pic](https://p0.pxfuel.com/preview/1008/814/358/landscape-nature-sunset-sky.jpg)
+Here's the SQL Schema:
 
-![Waterfall](https://live.staticflickr.com/7803/40550613243_5ca9551369_b.jpg)
+![Vert Chart](vert_grocery.png)
+
+![lucid_grocery](lucid_grocery.png)
