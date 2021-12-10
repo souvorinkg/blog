@@ -1,16 +1,9 @@
 ---
 layout: post
 title:  "Introduction Post"
-date:   2021-09-14 14:28:14 -0500
+date:   2021-12-09 14:28:14 -0500
 categories: reflection
 ---
-# Reflection on Lab 3
+# Reflection on Lab 9
 
-Before this lab, I had never used the terminal in a computer before. While I had been limited to a chromebook for previous labs, my dad lent me his mac for the semester. Initially, I really struggled with the terminal because I had some strange commands line errors for software I didn't have to download the project. However, I was able to find an alternate path to getting ruby through a site Dr. Goadrich found [here](https://nickymarino.com/2020/06/13/jekyll-server-rvm-macos/). I was also able to get alot of answers through [stack overflow](https://stackoverflow.com/).
-
-Blog goals this semester
-1. Reflections on each assignment
-2. Links to finished projects
-3. Links to resources for future CSCI 340 students
-
-![Princess M spirit](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Shiratani_Unsui_Gorge_17.jpg/1599px-Shiratani_Unsui_Gorge_17.jpg)
+Lab nine did not go well for our group. I was able to get through the first part of creating production databases, but I got stuck when trying to combine dotnet tools with the azure portal. Unfortanutely, I was not able to be present for many days during the lab because I was in a conference in Chicago for another class. Luckily for our project, the website we built was designed to be locally hosted, so we were not relying on azure hosting for our final project. However, it is still unfortanute that we weren't able to complete it. 
