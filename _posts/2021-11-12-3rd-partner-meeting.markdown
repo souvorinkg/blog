@@ -1,16 +1,9 @@
 ---
 layout: post
-title:  "Introduction Post"
-date:   2021-09-14 14:28:14 -0500
+title:  "3rd Partner Meeting"
+date:   2021-11-12 14:28:14 -0500
 categories: reflection
 ---
-# Reflection on Lab 3
+# 3rd Partner Meeting
 
-Before this lab, I had never used the terminal in a computer before. While I had been limited to a chromebook for previous labs, my dad lent me his mac for the semester. Initially, I really struggled with the terminal because I had some strange commands line errors for software I didn't have to download the project. However, I was able to find an alternate path to getting ruby through a site Dr. Goadrich found [here](https://nickymarino.com/2020/06/13/jekyll-server-rvm-macos/). I was also able to get alot of answers through [stack overflow](https://stackoverflow.com/).
-
-Blog goals this semester
-1. Reflections on each assignment
-2. Links to finished projects
-3. Links to resources for future CSCI 340 students
-
-![Princess M spirit](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Shiratani_Unsui_Gorge_17.jpg/1599px-Shiratani_Unsui_Gorge_17.jpg)
+For the first time to Holly, we were able to demonstrate hard code on how the website was to look. She had approved of Moqup and Schema in the past. We were able to show the scaffolded bare bones pages on the site. Additionally, our database was built and populated with customer informtation, so we were able to demonstrate it's capabilities to her. We showed her how to perform queries to find customers and order times. The meeting was again positive and we are prepared to finish the site and make our final changes.
